@@ -24,10 +24,15 @@ Double-check that you're pushing to this new repo:
 ```
 git remote -v
 ```
+Install packages in the terminal
+```
+npm install
+```
 Push to the new repo:
 ```
 git push origin master
 ```
+
 
 ## Available Scripts
 
